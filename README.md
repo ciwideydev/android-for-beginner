@@ -32,6 +32,7 @@ https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Prese
 https://github.com/sockeqwe/mosby
 https://github.com/pedrovgs/EffectiveAndroidUI
 https://github.com/glomadrian/MvpCleanArchitecture
+https://github.com/kejunxia/AndroidMvc
 
 <b>MVVM Blogs</b>
 
