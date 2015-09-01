@@ -48,6 +48,7 @@ http://www.slideshare.net/JamesMontemagno/mvp-mix-2015-leveraging-mvvm-on-all-pl
 
 <b>MVVM Github Repositories</b>
 
+https://github.com/inloop/AndroidViewModel
 https://github.com/moltak/android_mvvm_for_pt
 https://github.com/MvvmCross/MvvmCross
 
