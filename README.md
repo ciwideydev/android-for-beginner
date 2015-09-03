@@ -1,4 +1,5 @@
 # android-for-beginner
+
 All about references for beginner android developer.
 Please feel free to update following references.
 
