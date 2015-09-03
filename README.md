@@ -3,9 +3,14 @@
 All about references for beginner android developer.
 Please feel free to update following references.
 
-1. Tutorials
-2. Tips, Do's and Don'ts
-3. MVC, MVP, MVVM
+1. Concepts
+2. Tutorials
+3. Tips, Do's and Don'ts
+4. MVC, MVP, MVVM
+
+## Concepts
+
+http://www.toptal.com/android#hiring-guide
 
 ## Tutorials
 
